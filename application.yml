@@ -4,7 +4,7 @@ security:
 
 management:
   security:
-    enabled: falce
+    enabled: false
 
 logging:
   level:
